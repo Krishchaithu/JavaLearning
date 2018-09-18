@@ -1,4 +1,4 @@
-package javaIntQ;
+package javaLearning;
 
 public class ReverseInteger {
 

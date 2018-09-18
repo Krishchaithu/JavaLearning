@@ -1,4 +1,4 @@
-package javaIntQ;
+package javaLearning;
 
 import java.util.HashMap;
 import java.util.HashSet;
